@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 The Employee Management System is a comprehensive solution designed to streamline and enhance human resource operations within organizations. This system offers a user-friendly interface that facilitates efficient management of employee profiles, tracking of leave and attendance, task assignment, and performance evaluations. By centralizing these essential HR functions, the system empowers administrators to optimize workforce management, boost productivity, and ensure accurate data-driven decision-making.
@@ -217,3 +218,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## License
 This Employee Management System is distributed under the `GNU General Public License version 3.0 (GPL-3.0)`. You can find the full text of the license in the `LICENSE` file.
+=======
+# Attendance-management-system-v1
+>>>>>>> 8262c13755f325e8a1705205c5c0ca17aa114986
